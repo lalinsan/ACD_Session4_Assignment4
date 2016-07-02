@@ -28,7 +28,7 @@ public class CalculateShape {
 	    
 	    //Prints out the App Header
 	    System.out.println ("===========================================================");
-	    System.out.println ("+++Shape Rectangle & Circle Perimeter | Area Calculation+++");
+	    System.out.println ("+++Shape Rectangle & Triangle & Circle Perimeter | Area Calculation+++");
 	    System.out.println ("===========================================================");
 	    
 	    //Executes code as long as the User's choice = Y or Yes
